@@ -1,6 +1,6 @@
 # Rogue Legend — Modded by Banditu
 
-Mod no oficial para **iOS (IPA)** con un panel flotante que permite activar y ajustar distintas funciones durante el juego.
+Mod no oficial para **iOS (IPA)** y **Android (APK)** con un panel flotante que permite activar y ajustar distintas funciones durante el juego.
 
 ## Funciones
 
@@ -34,11 +34,10 @@ La automatización puede activarse desde:
 
 Las versiones futuras del juego pueden requerir actualizar o adaptar el mod.
 
-## Instalación
 
-### iOS
+### iOS / Android
 
-Descarga el archivo `.ipa` desde la sección **Releases**.
+Descarga el archivo `.ipa` o `.apk` desde la sección **Releases**.
 
 El IPA se distribuye sin firmar y requiere firma e instalación mediante una herramienta compatible, como **Sideloadly**.
 
