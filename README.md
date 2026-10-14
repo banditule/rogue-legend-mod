@@ -1,6 +1,3 @@
-# rogue-legend-mod
-Mod no oficial de Rogue Legend para Android e iOS. Descarga aquí las últimas versiones APK e IPA.
-
 # Rogue Legend — Modded by Banditu
 
 Mod no oficial para **iOS (IPA)** con un panel flotante que permite activar y ajustar distintas funciones durante el juego.
@@ -34,7 +31,6 @@ La automatización puede activarse desde:
   - se cancela manualmente;
   - se agota la energía;
   - se encuentra un error que impide continuar.
-
 
 Las versiones futuras del juego pueden requerir actualizar o adaptar el mod.
 
